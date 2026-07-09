@@ -2,15 +2,15 @@
   "tdeck": {
     "version": "1.5.3",
     "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-TDeck-v1.5.3.bin",
-    "size": 5071552,
-    "sha256": "f2a671200a71e2ab0ce5111c52ca34aed9a248ff0e6519822d120672df954a17",
+    "size": 5072240,
+    "sha256": "c605f5713b50241b1ad695afc7160bb45b3e29ec412ee91f8fa503e93979da37",
     "notes": "MeshOS 1.5.3 - New onboarding experience, MeshOS look out of the box, online update checker in the firmware updater, cleaner Display settings"
   },
   "m9": {
     "version": "1.5.3",
     "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-M9-v1.5.3.bin",
-    "size": 4671888,
-    "sha256": "7ddcde8cf94076ec6f81a5bc6c9e7f5b522d70d9a9a9fb3f4776fcbef2917ea6",
+    "size": 4672160,
+    "sha256": "8999fc6f3e46e285afaeb57c11316d6dfae6f8f4edebc12e3dd2685e95c6c5f5",
     "notes": "MeshOS 1.5.3 - New onboarding experience, MeshOS look out of the box, online update checker in the firmware updater, cleaner Display settings"
   }
 }
