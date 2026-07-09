@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.5.2",
+    "version": "1.5.1",
     "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-TDeck-v1.5.1.bin",
-    "size": 5062384,
-    "sha256": "d03da78ae2cf1f0428f8f217aa86a687e18dbbde15b88954ccbf67d2ea678a49",
-    "notes": "OTA updates, emoji picker v2, notification band, browser image save, charge sensing, UI polish"
+    "size": 5069104,
+    "sha256": "b43f04cb52203931744fdf81d74b000c8f30c490e5dd1a13ba00cda5fb779505",
+    "notes": "MeshOS 1.5.1 - Over-the-air updates: automatic update checks on WiFi, one-tap download and install, online checker in the firmware updater"
   },
   "m9": {
-    "version": "1.5.2",
+    "version": "1.5.1",
     "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-M9-v1.5.1.bin",
-    "size": 4668944,
-    "sha256": "bf4e7c0fe3d190ff7e9ff410ff0dee8169ad7ffedbe6b14d6c919a6bffe4982e",
-    "notes": "OTA updates, emoji picker v2, notification band, browser image save, charge sensing, UI polish"
+    "size": 4669552,
+    "sha256": "7e0ddd2707d18c4e09f1c42436a50110465f8fbfd1adf7384e89bf4fd9f1ef99",
+    "notes": "MeshOS 1.5.1 - Over-the-air updates: automatic update checks on WiFi, one-tap download and install, online checker in the firmware updater"
   }
 }
