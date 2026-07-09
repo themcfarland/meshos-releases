@@ -1,0 +1,16 @@
+{
+  "tdeck": {
+    "version": "1.5.0",
+    "url": "https://github.com/andymux/meshos-releases/releases/download/fw-v1.5.0/MeshOS-TDeck-v1.5.0.bin",
+    "size": 5052928,
+    "sha256": "33df19a56529e5f39df692d379238403d91071ef756e1c098a7d34bd4e4482db",
+    "notes": "MeshOS 1.5.0 - Modern UI overhaul: overlay font scaling, emoji picker v2, home notification band, browser image save/wallpaper, momentum scrolling, charge sensing"
+  },
+  "m9": {
+    "version": "1.5.0",
+    "url": "https://github.com/andymux/meshos-releases/releases/download/fw-v1.5.0/MeshOS-M9-v1.5.0.bin",
+    "size": 4661104,
+    "sha256": "414aef61ce870bca2340b93e5af6529418de2c2abcac2e4072d2ae850bfe9705",
+    "notes": "MeshOS 1.5.0 - Modern UI overhaul: overlay font scaling, emoji picker v2, home notification band, browser image save/wallpaper, momentum scrolling, charge sensing"
+  }
+}
