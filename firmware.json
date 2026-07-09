@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.5.0",
-    "url": "https://github.com/andymux/meshos-releases/releases/download/fw-v1.5.0/MeshOS-TDeck-v1.5.0.bin",
-    "size": 5052928,
-    "sha256": "33df19a56529e5f39df692d379238403d91071ef756e1c098a7d34bd4e4482db",
-    "notes": "MeshOS 1.5.0 - Modern UI overhaul: overlay font scaling, emoji picker v2, home notification band, browser image save/wallpaper, momentum scrolling, charge sensing"
+    "version": "1.5.1",
+    "url": "https://github.com/andymux/meshos-releases/releases/download/fw-v1.5.1/MeshOS-TDeck-v1.5.1.bin",
+    "size": 5060672,
+    "sha256": "9422f5835f0d2a0e2cac0eb3623e31a9303b48dd34a4f3db2b4729668878777f",
+    "notes": "MeshOS 1.5.1 - Over-the-air updates: in-firmware update checks, download and install from GitHub releases"
   },
   "m9": {
-    "version": "1.5.0",
-    "url": "https://github.com/andymux/meshos-releases/releases/download/fw-v1.5.0/MeshOS-M9-v1.5.0.bin",
-    "size": 4661104,
-    "sha256": "414aef61ce870bca2340b93e5af6529418de2c2abcac2e4072d2ae850bfe9705",
-    "notes": "MeshOS 1.5.0 - Modern UI overhaul: overlay font scaling, emoji picker v2, home notification band, browser image save/wallpaper, momentum scrolling, charge sensing"
+    "version": "1.5.1",
+    "url": "https://github.com/andymux/meshos-releases/releases/download/fw-v1.5.1/MeshOS-M9-v1.5.1.bin",
+    "size": 4667856,
+    "sha256": "e41a5361e1d0841676502b54085e20d3a8628bc9ee137a91c4a85e0b03bb3b21",
+    "notes": "MeshOS 1.5.1 - Over-the-air updates: in-firmware update checks, download and install from GitHub releases"
   }
 }
