@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.5.1",
-    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-TDeck-v1.5.1.bin",
-    "size": 5069104,
-    "sha256": "b43f04cb52203931744fdf81d74b000c8f30c490e5dd1a13ba00cda5fb779505",
-    "notes": "MeshOS 1.5.1 - Over-the-air updates: automatic update checks on WiFi, one-tap download and install, online checker in the firmware updater"
+    "version": "1.5.3",
+    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-TDeck-v1.5.3.bin",
+    "size": 5071552,
+    "sha256": "f2a671200a71e2ab0ce5111c52ca34aed9a248ff0e6519822d120672df954a17",
+    "notes": "MeshOS 1.5.3 - New onboarding experience, MeshOS look out of the box, online update checker in the firmware updater, cleaner Display settings"
   },
   "m9": {
-    "version": "1.5.1",
-    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-M9-v1.5.1.bin",
-    "size": 4669552,
-    "sha256": "7e0ddd2707d18c4e09f1c42436a50110465f8fbfd1adf7384e89bf4fd9f1ef99",
-    "notes": "MeshOS 1.5.1 - Over-the-air updates: automatic update checks on WiFi, one-tap download and install, online checker in the firmware updater"
+    "version": "1.5.3",
+    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-M9-v1.5.3.bin",
+    "size": 4671888,
+    "sha256": "7ddcde8cf94076ec6f81a5bc6c9e7f5b522d70d9a9a9fb3f4776fcbef2917ea6",
+    "notes": "MeshOS 1.5.3 - New onboarding experience, MeshOS look out of the box, online update checker in the firmware updater, cleaner Display settings"
   }
 }
