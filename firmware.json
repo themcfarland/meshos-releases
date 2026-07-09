@@ -1,14 +1,14 @@
 {
   "tdeck": {
     "version": "1.5.1",
-    "url": "https://github.com/andymux/meshos-releases/releases/download/fw-v1.5.1/MeshOS-TDeck-v1.5.1.bin",
+    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-TDeck-v1.5.1.bin",
     "size": 5060704,
     "sha256": "4cd0afa50f34a9a9b114902be24851ece22c1f811ea9a87df710f44de24f40d4",
     "notes": "MeshOS 1.5.1 - Over-the-air updates: in-firmware update checks, download and install from GitHub releases"
   },
   "m9": {
     "version": "1.5.1",
-    "url": "https://github.com/andymux/meshos-releases/releases/download/fw-v1.5.1/MeshOS-M9-v1.5.1.bin",
+    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-M9-v1.5.1.bin",
     "size": 4667888,
     "sha256": "94d4f1c1c52157fea4aef3f1203ff4cb702cc83df66cef392cdf7d9742c0536a",
     "notes": "MeshOS 1.5.1 - Over-the-air updates: in-firmware update checks, download and install from GitHub releases"
