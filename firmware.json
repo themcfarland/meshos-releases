@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.5.4",
-    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-TDeck-v1.5.4.bin",
-    "size": 5151056,
-    "sha256": "ac11dad3f0283820765ebce6c85670c2502d06783e9107ab78fb8dc95e4029fa",
-    "notes": "Map overhaul: full-screen tiles, translucent header, on-screen zoom and locate buttons, avatar node markers (tap for details), add heard nodes to contacts, compass position arrow. New chat input box with inline buttons and live cursor. Scrolling emoji picker. Chat scroll bar with jump-to-newest. Heard list: avatar rows, pub-key column, search and Map button. Fixes: compass calibration self-heals, font alignment, trackball coverage everywhere, CoreBrowser loading can be cancelled."
+    "version": "1.5.5",
+    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-TDeck-v1.5.5.bin",
+    "size": 5152256,
+    "sha256": "1e62805253cb8f87ad8c71ff9da90a8a3d04196aef619afcf270f130fbbcbade",
+    "notes": "CoreBrowser: smooth touch scrolling with momentum, trackball scrolls long pages (links still step when visible), pages can always be cancelled while loading. Plus the 1.5.4 map and heard-list overhaul for anyone updating from 1.5.3."
   },
   "m9": {
-    "version": "1.5.4",
-    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-M9-v1.5.4.bin",
-    "size": 4735440,
-    "sha256": "79d09e27746358f44536f2872f953db22dd0a5108b7362039648c34a88f997df",
-    "notes": "Map overhaul: full-screen tiles, translucent header, on-screen zoom and locate buttons, avatar node markers (tap for details), add heard nodes to contacts, compass position arrow. New chat input box with inline buttons and live cursor. Scrolling emoji picker. Chat scroll bar with jump-to-newest. Heard list: avatar rows, pub-key column, search and Map button. Fixes: compass calibration self-heals, font alignment, trackball coverage everywhere, CoreBrowser loading can be cancelled."
+    "version": "1.5.5",
+    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-M9-v1.5.5.bin",
+    "size": 4735968,
+    "sha256": "e4232ca0b570b3966e4f3d219455bac4a8118b3215919092f6768b47d210c6a6",
+    "notes": "CoreBrowser: smooth touch scrolling with momentum, trackball scrolls long pages (links still step when visible), pages can always be cancelled while loading. Plus the 1.5.4 map and heard-list overhaul for anyone updating from 1.5.3."
   }
 }
