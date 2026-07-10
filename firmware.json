@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.5.3",
-    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-TDeck-v1.5.3.bin",
-    "size": 5072240,
-    "sha256": "c605f5713b50241b1ad695afc7160bb45b3e29ec412ee91f8fa503e93979da37",
-    "notes": "MeshOS 1.5.3 - New onboarding experience, MeshOS look out of the box, online update checker in the firmware updater, cleaner Display settings"
+    "version": "1.5.4",
+    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-TDeck-v1.5.4.bin",
+    "size": 5151056,
+    "sha256": "ac11dad3f0283820765ebce6c85670c2502d06783e9107ab78fb8dc95e4029fa",
+    "notes": "Map overhaul: full-screen tiles, translucent header, on-screen zoom and locate buttons, avatar node markers (tap for details), add heard nodes to contacts, compass position arrow. New chat input box with inline buttons and live cursor. Scrolling emoji picker. Chat scroll bar with jump-to-newest. Heard list: avatar rows, pub-key column, search and Map button. Fixes: compass calibration self-heals, font alignment, trackball coverage everywhere, CoreBrowser loading can be cancelled."
   },
   "m9": {
-    "version": "1.5.3",
-    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-M9-v1.5.3.bin",
-    "size": 4672160,
-    "sha256": "8999fc6f3e46e285afaeb57c11316d6dfae6f8f4edebc12e3dd2685e95c6c5f5",
-    "notes": "MeshOS 1.5.3 - New onboarding experience, MeshOS look out of the box, online update checker in the firmware updater, cleaner Display settings"
+    "version": "1.5.4",
+    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-M9-v1.5.4.bin",
+    "size": 4735440,
+    "sha256": "79d09e27746358f44536f2872f953db22dd0a5108b7362039648c34a88f997df",
+    "notes": "Map overhaul: full-screen tiles, translucent header, on-screen zoom and locate buttons, avatar node markers (tap for details), add heard nodes to contacts, compass position arrow. New chat input box with inline buttons and live cursor. Scrolling emoji picker. Chat scroll bar with jump-to-newest. Heard list: avatar rows, pub-key column, search and Map button. Fixes: compass calibration self-heals, font alignment, trackball coverage everywhere, CoreBrowser loading can be cancelled."
   }
 }
