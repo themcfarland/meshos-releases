@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.5.5",
-    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-TDeck-v1.5.5.bin",
-    "size": 5152256,
-    "sha256": "1e62805253cb8f87ad8c71ff9da90a8a3d04196aef619afcf270f130fbbcbade",
-    "notes": "CoreBrowser: smooth touch scrolling with momentum, trackball scrolls long pages (links still step when visible), pages can always be cancelled while loading. Plus the 1.5.4 map and heard-list overhaul for anyone updating from 1.5.3."
+    "version": "1.5.6",
+    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-TDeck-v1.5.6.bin",
+    "size": 5153328,
+    "sha256": "af26586a4d6f7c991c5390827d7d80d0b3479f1b86e02d6054a180a2fec7d78a",
+    "notes": "License key now backed up to SD and auto-restored after flash erase. WiFi scanner and connect dialog fixes. Bluetooth-off persists across reboots."
   },
   "m9": {
-    "version": "1.5.5",
-    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-M9-v1.5.5.bin",
-    "size": 4735968,
-    "sha256": "e4232ca0b570b3966e4f3d219455bac4a8118b3215919092f6768b47d210c6a6",
-    "notes": "CoreBrowser: smooth touch scrolling with momentum, trackball scrolls long pages (links still step when visible), pages can always be cancelled while loading. Plus the 1.5.4 map and heard-list overhaul for anyone updating from 1.5.3."
+    "version": "1.5.6",
+    "url": "https://raw.githubusercontent.com/andymux/meshos-releases/main/firmware/MeshOS-M9-v1.5.6.bin",
+    "size": 4737424,
+    "sha256": "6f80d53b4d7b7743096a40331aedd261a6efeff8887921b540cdb00778553876",
+    "notes": "License key now backed up to SD and auto-restored after flash erase. WiFi scanner and connect dialog fixes. Bluetooth-off persists across reboots."
   }
 }
