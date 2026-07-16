@@ -1,16 +1,16 @@
 {
   "tdeck": {
-    "version": "1.5.8",
-    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.5.8.bin",
-    "size": 5182240,
-    "sha256": "5a7da903153d2ba4790585b1a692ad443021f85c47798afe18015ac3a7115622",
-    "notes": "New Control Centre: quick-settings panel with WiFi, Sound, Bluetooth and GPS toggles plus brightness and volume sliders. Persistent WiFi switch. Software updater reliability fixes."
+    "version": "1.5.9",
+    "url": "https://meshcore.co.uk/fw/MeshOS-TDeck-v1.5.9.bin",
+    "size": 5181968,
+    "sha256": "2f9f587f41fc751e8f91900772f000c2aa1ef68eefd585bd604d407b2341a9d2",
+    "notes": "Smoother UI on busy meshes, chat input box fixes, WiFi and GPS toggles now respected everywhere"
   },
   "m9": {
-    "version": "1.5.8",
-    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.5.8.bin",
-    "size": 4757536,
-    "sha256": "b44357a68874adc43e9b0d3a579006d8a5d7e726b61df39ce81510878dfe003b",
-    "notes": "New Control Centre: quick-settings panel with WiFi, Sound, Bluetooth and GPS toggles plus brightness and volume sliders. Persistent WiFi switch. Software updater reliability fixes."
+    "version": "1.5.9",
+    "url": "https://meshcore.co.uk/fw/MeshOS-M9-v1.5.9.bin",
+    "size": 4757952,
+    "sha256": "a58f9a8b5cf2516022c26c8075d52ed97896c245945da519eeca40cd3c6420e7",
+    "notes": "Smoother UI on busy meshes, chat input box fixes, WiFi and GPS toggles now respected everywhere"
   }
 }
